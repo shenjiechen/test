@@ -9,4 +9,7 @@ public class Demo {
     public int sub(int num1, int num2) {
         return num1 - num2;
     }
+    public int sub2(int num1, int num2) {
+        return num1 - num2;
+    }
 }

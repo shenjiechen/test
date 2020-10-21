@@ -17,15 +17,6 @@ public class Application {
         strList.add("gaetrs烦烦烦烦烦烦烦烦烦方法fd");
         strList.add("gaetrsfd");
         strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
-        strList.add("gaetrsfd");
         strList.forEach(item -> {
             System.out.println(item);
         });
