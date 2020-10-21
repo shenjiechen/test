@@ -12,6 +12,7 @@ public class Demo {
 
 
     public int sub2(int num1, int num2) {
+        System.out.println("ddddddddddddddd");
         return num1 - num2;
     }
 }
