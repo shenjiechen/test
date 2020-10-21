@@ -13,10 +13,10 @@ public class Application {
         strList.add("fsdddddd");
         strList.add("fsd");
         strList.add("fsd");
+        strList.add("sfdfffffffsdg");
         strList.add("sfdfsdg");
-        strList.add("sfdfsdg");
-        strList.add("sfdfsdg");
-        strList.add("sfdfsdg");
+        strList.add("sfffffffdfsdg");
+        strList.add("sfdffffffffsdg");
         strList.add("gaetrsfd");
         strList.forEach(item -> {
             System.out.println(item);
