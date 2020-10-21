@@ -10,6 +10,9 @@ public class Application {
         strList.add("sfds");
         strList.add("fsd");
         strList.add("sfdfsdg");
+        strList.add("sfdfsdg");
+        strList.add("sfdfsdg");
+        strList.add("sfdfsdg");
         strList.add("gaetrsfd");
         strList.forEach(item -> {
             System.out.println(item);
