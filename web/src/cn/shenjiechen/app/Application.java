@@ -13,7 +13,7 @@ public class Application {
         strList.add("fsd灌灌灌灌灌ddddd");
         strList.add("fsd");
         strList.add("fsd");
-        strList.add("sfdfffffffsdg");
+        strList.add("sfdff烦烦方fffffsdg");
         strList.add("sfdfsdg");
         strList.add("sfffffffdfsdg");
         strList.add("sfdffffffffsdg");
