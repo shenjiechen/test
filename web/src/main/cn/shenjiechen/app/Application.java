@@ -9,7 +9,7 @@ public class Application {
         strList.add("fsdfds");
         strList.add("sfds");
         strList.add("fsd");
-        strList.add("sfdfsdg");
+        strList.add("sfdfffffffffffsdg");
         strList.add("gaetrsfd");
         strList.forEach(item -> {
             System.out.println(item);
